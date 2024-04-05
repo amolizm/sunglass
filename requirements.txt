@@ -1,0 +1,8 @@
+altgraph==0.17.4
+numpy==1.26.4
+opencv-python==4.9.0.80
+ordered-set==4.1.0
+packaging==24.0
+pyinstaller==6.5.0
+pyinstaller-hooks-contrib==2024.3
+zstandard==0.22.0
